@@ -1,10 +1,13 @@
 /* Header */
+
 header {
     background-color: rgb(41, 206, 104);
     color: #3a3838;
     text-align: center;
     padding: 20px;
     }
+
+  
     
     /* Títulos */
     h1 {
@@ -26,12 +29,13 @@ header {
     
     /* Categoría */
     .category {
-    background-color: rgb(61, 60, 60);
+
     color: #38ca7a;
+    background-color: rgb(61, 60, 60);
     padding: 20px;
     margin-bottom: 20px;
-    width: 31%;
-    box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+    /* width: 31%; */
+    /* box-shadow: 2px 2px 5px rgba(0,0,0,0.3); */
     border-radius: 10px;
     transition: all 0.3s ease-in-out;
     }

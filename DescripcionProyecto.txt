@@ -2,5 +2,4 @@ Proyecto Pagina de peliculas Movell
 Funcionamiento:
 1-Que cada persona que ingrese a la pagina vea un top 5 de diferentes categorias de peliculas 
 2-Tambien la gente puede buscar su categoria deseada 
-3-La gente vota su pelicula favorita, agrega su reseña y eso va midificando la tabla de peliculas segun el puntaje que tienen 
-4-La gente puede agregar su top 5 de peliculas dependiendo de la categoria que halla elejido 
+3-La gente puede agregar su top 5 de peliculas dependiendo de la categoria que halla elejido 

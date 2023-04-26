@@ -3,3 +3,10 @@ Funcionamiento:
 1-Que cada persona que ingrese a la pagina vea un top 5 de diferentes categorias de peliculas 
 2-Tambien la gente puede buscar su categoria deseada 
 3-La gente puede agregar su top 5 de peliculas dependiendo de la categoria que halla elejido 
+
+Cosas para hacer o resolver
+_ solucuionar tema responsive (q se adapte a cada panatalla)
+_ poner la imagen del logo y imagen de pestaña
+_ apreta la pelicula y q aparezca traile, reseña, imagenes 
+_ poner buscador 
+

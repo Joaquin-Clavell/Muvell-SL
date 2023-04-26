@@ -6,6 +6,8 @@ Funcionamiento:
 
 Cosas para hacer o resolver
 _ solucuionar tema responsive (q se adapte a cada panatalla)
+_ poner categorias en la misma linea 
+_ q las caetegorias toquen los bordes 
 _ poner la imagen del logo y imagen de pestaña
 _ apreta la pelicula y q aparezca traile, reseña, imagenes 
 _ poner buscador 
